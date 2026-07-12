@@ -1,14 +1,13 @@
 mainSections   = ["post"]
 rssFullContent = true
-favicon        = "img/avatar.png"
+favicon        = "/img/violet.webp"
 
 [footer]
-    since = 2020
+    since = 2026
 
 [sidebar]
-    emoji    = "✏️"
-    subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-    avatar   = "img/avatar.png"
+    subtitle = "fail fast learn faster."
+    avatar   = "/img/violet.webp"
 
 [article]
     [article.license]
@@ -26,7 +25,7 @@ favicon        = "img/avatar.png"
 
 [comments]
     # See complete configuration in config/_default/params.toml
-    enabled  = true
+    enabled  = false
     provider = "disqus"
 
 # GDPR Cookie Consent Configuration

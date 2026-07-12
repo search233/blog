@@ -1,0 +1,18 @@
+
+# --- Hugo 特异性忽略 ---
+# 本地编译生成的静态网页目录（通常通过部署工作流在云端生成，无需传到源码仓库）
+/public/
+/resources/
+
+# Hugo 运行产生的临时文件与缓存
+/.hugo_build.lock
+/assets/jsconfig.json
+
+# IDE 与编辑器缓存
+/.idea/
+/.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
