@@ -1,18 +1,18 @@
 ---
 title: Image Gallery
-description: Showcasing the built-in image gallery support
+description: photo sharing
 date: 2026-01-26
 slug: image-gallery
-image: helena-hertz-wWZzXlDpMog-unsplash.jpg
+image: cover.jpg
 categories:
-    - Documentation
+    - documentation
 tags:
     - Gallery
     - Photoswipe
 toc: false
 ---
 
-Stack theme has a built-in support for image galleries. It allows you to create a beautiful gallery by simply placing multiple images side-by-side.
+<!-- Stack theme has a built-in support for image galleries. It allows you to create a beautiful gallery by simply placing multiple images side-by-side.
 
 ## Sample Gallery
 
@@ -38,5 +38,5 @@ To create a gallery, you just need to put multiple images in the same line (or p
 
 ---
 
-Gallery Syntax inspired by [Typlog](https://typlog.com/)
+Gallery Syntax inspired by [Typlog](https://typlog.com/) -->
 
